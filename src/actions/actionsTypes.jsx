@@ -1,0 +1,5 @@
+export const GET_ALL_PROJECTS = "GET_ALL_PROJECTS";
+export const SEARCH_BY_NAME = "SEARCH_BY_NAME";
+export const CREATE_PROJECT = "CREATE_PROJECT";
+export const DELETE_PROJECT = "DELETE_PROJECT";
+export const EDIT_PROJECT = "EDIT_PROJECT";
